@@ -1,11 +1,10 @@
-### The complete genome and physiological analysis of the microbialite-dwelling *Agrococcus pavilionensis* sp. nov; 
-reveals genetic promiscuity and predicted adaptations to environmental stress
+### The complete genome and physiological analysis of the microbialite-dwelling *Agrococcus pavilionensis* sp. nov; reveals genetic promiscuity and predicted adaptations to environmental stress
 
 Manuscript is currently in press
 
 This is the code and analysis for this article. 
 
-Journal Article is: Richard Allen White III, Greg Gavelis, Sarah A Soles, Emma Gosselin, Greg F Slater, Darlene S. S. Lim, Brian Leander, Curtis A. Suttle. **The complete genome and physiological analysis of the eurythermal firmicute *Exiguobacterium chiriqhucha* strain RW2 isolated from a freshwater microbialite, widely adaptable to broad thermal, pH and salinity ranges**
+Journal Article is: Richard Allen White III, Greg Gavelis, Sarah A Soles, Emma Gosselin, Greg F Slater, Darlene S. S. Lim, Brian Leander, Curtis A. Suttle. **The complete genome and physiological analysis of the microbialite-dwelling *Agrococcus pavilionensis* sp. nov; reveals genetic promiscuity and predicted adaptations to environmental stress** *Front. Microbiol.* 9:2180. (doi: 10.3389/fmicb.2018.02180) 
 
 **Analysis**
 
